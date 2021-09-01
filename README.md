@@ -8,7 +8,7 @@ Link to dataset: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 
 ### Feature extraction
 Principal component analysis(PCA) performed on Banknote Authentication dataset.
-[data_banknote_authentication.csv](https://github.com/aishanii/Feature-Reduction/files/7090350/data_banknote_authentication.csv)
+Link to dataset: [data_banknote_authentication.csv](https://github.com/aishanii/Feature-Reduction/files/7090350/data_banknote_authentication.csv)
 
 
 
