@@ -52,7 +52,7 @@ pca.explained_variance_ratio_ #retuns an array of variances
 #labelling the principal components
 x_pca['Class']=y
 x_pca.columns = ['PC1','PC2','PC3','PC4','Class']
-x_pca['class'] = LabelEncoder().fit_transform(x_pca['class'])
+x_pca['Class'] = LabelEncoder().fit_transform(x_pca['Class'])
 x_pca.head()
 
 
