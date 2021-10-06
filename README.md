@@ -1,5 +1,8 @@
 # Feature-Reduction
-Various dimensionality reduction techniques applied on datasets and results compared.
+
+Though data undoubtedly brings tremendous value to such companies, isn’t it inevitable that poor data management will reap no fruits? Wouldn’t it be best to reduce the complexity, or folds of the data without hampering the value they hold? Dimensionality reduction is what comes into play here, and this technique is relevant now more than ever. 
+
+There are two approaches to this method: Feature Selection and Feature Extraction
 
 
 ### Feature Selection
